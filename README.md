@@ -10,16 +10,16 @@
 - Please make sure to look at all `TODO REBUTTAL` comments, which provide important instructions and todos 
 - Either compile with `pdflatex` as
 
-        pdflatex main
-        bibtex main
-        pdflatex main
-        pdflatex main
+        pdflatex rebuttal
+        bibtex rebuttal
+        pdflatex rebuttal
+        pdflatex rebuttal
 
     or compile with plain `latex` as
 
-        latex main
-        bibtex main
-        latex main
-        latex main
-        dvips main
-        pstopdf main.ps
+        latex rebuttal
+        bibtex rebuttal
+        latex rebuttal
+        latex rebuttal
+        dvips rebuttal
+        pstopdf rebuttal.ps
